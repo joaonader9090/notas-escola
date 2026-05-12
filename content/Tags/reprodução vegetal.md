@@ -1,0 +1,1 @@
+Processo pelo qual as plantas produzem novas espécies através do crescimento
