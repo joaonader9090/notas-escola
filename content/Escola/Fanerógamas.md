@@ -1,4 +1,4 @@
-Tags: [[botânica]] [[biologia]] [[evolução]] [[Biologia vegetal]]
+Tags: [[botânica]] [[Biologia]] [[evolução]] [[Biologia vegetal]]
 
 > [!abstract] As espermatófitas representam o ápice da adaptação vegetal ao meio terrestre através da semente e da independência da água para fecundação (**sifonogamia**). Este grupo abrange as Gimnospermas, com sementes "nuas", e as Angiospermas, que inovaram com flores e frutos para otimizar a dispersão e a variabilidade genética.
 

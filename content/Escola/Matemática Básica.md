@@ -1,4 +1,4 @@
-Tags: [[matemática]] 
+Tags: [[Matemática]] 
 
 > [!abstract]
 > 

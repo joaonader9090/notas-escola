@@ -1,4 +1,4 @@
-Tags: [[sociologia]] 
+Tags: [[Sociologia]] 
 
 > [!abstract]
 > 
@@ -83,4 +83,4 @@ Marx analisa a sociedade a partir das relações de produção e da exploração
 
 ---
 
-[[sociologia]]  [[filosofia]] [[capitalismo]] [[revolução industrial]]
+[[Sociologia]]  [[Filosofia]] [[capitalismo]] [[revolução industrial]]

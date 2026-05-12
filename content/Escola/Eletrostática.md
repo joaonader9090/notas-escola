@@ -1,4 +1,4 @@
-Tags: [[física]] [[eletrostática]] [[cargas elétricas]]
+Tags: [[Física]] [[eletrostática]] [[cargas elétricas]]
 
 > [!abstract]
 > 

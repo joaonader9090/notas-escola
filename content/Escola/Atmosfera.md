@@ -1,4 +1,4 @@
-Tags: [[geografia]] [[climatologia]] [[Ecologia]]
+Tags: [[Geografia]] [[climatologia]] [[Ecologia]]
 
 > [!abstract] A atmosfera é uma camada gasosa essencial que envolve a Terra, composta principalmente por nitrogênio (78%) e oxigênio (21%). Ela desempenha funções vitais de proteção, como a manutenção do equilíbrio térmico via efeito estufa, a filtragem de radiações ultravioletas pela camada de ozônio e a fragmentação de meteoroides.
 

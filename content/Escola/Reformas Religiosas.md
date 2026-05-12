@@ -1,4 +1,4 @@
-Tags: [[história]] [[idade moderna]] [[Reforma protestante]] [[religião]]
+Tags: [[História]] [[idade moderna]] [[Reforma protestante]] [[religião]]
 
 > [!abstract] As Reformas Religiosas foram um movimento de fragmentação da Cristandade Ocidental no século XVI, rompendo o monopólio da Igreja Católica. Motivadas por críticas à corrupção clerical, venda de indulgências e a ascensão do nacionalismo monárquico, resultaram no surgimento das igrejas protestantes e na reorganização interna do catolicismo (Contrarreforma).
 

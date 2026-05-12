@@ -1,4 +1,4 @@
-Tags: [[história]] [[idade moderna]] [[expansão marítima]] [[mercantilismo]] [[economia]]
+Tags: [[História]] [[idade moderna]] [[expansão marítima]] [[mercantilismo]] [[economia]]
 
 > [!abstract] A Expansão Marítima e o Mercantilismo foram os pilares econômicos e políticos da transição para a Idade Moderna. Enquanto as navegações romperam os limites do "Mundo Conhecido" pelos europeus, o Mercantilismo estruturou a política econômica dos Estados Absolutistas, focando no acúmulo de metais preciosos, no protecionismo e na exploração colonial para fortalecer o poder real.
 

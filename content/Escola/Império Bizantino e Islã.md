@@ -33,7 +33,7 @@ O Islã surgiu no século VII na Península Arábica, transformando tribos nôma
     
     - **Fator de Sucesso:** Tolerância religiosa relativa (em troca de tributos para "povos do livro") e o enfraquecimento prévio dos impérios Bizantino e Persa por guerras constantes entre si.
         
-- **Legado Cultural:** Preservação e tradução de textos gregos clássicos (Aristóteles, Platão), além de avanços cruciais em [[matemática]] (algarismos arábicos, álgebra), Medicina e Astronomia.
+- **Legado Cultural:** Preservação e tradução de textos gregos clássicos (Aristóteles, Platão), além de avanços cruciais em [[Matemática]] (algarismos arábicos, álgebra), Medicina e Astronomia.
     
 
 ## O Choque de Civilizações e a Muralha de Bizâncio

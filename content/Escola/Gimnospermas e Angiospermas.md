@@ -1,4 +1,4 @@
-Tags: [[biologia]] [[botânica]] [[gimnospermas]] [[espermatófitas]] [[Fanerógamas]] [[Ecologia]]
+Tags: [[Biologia]] [[botânica]] [[gimnospermas]] [[espermatófitas]] [[Fanerógamas]] [[Ecologia]]
 
 > [!abstract]
 > 

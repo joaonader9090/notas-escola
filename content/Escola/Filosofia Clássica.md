@@ -1,4 +1,4 @@
-Tags: [[filosofia]] [[história]] [[grécia antiga]]
+Tags: [[Filosofia]] [[história]] [[grécia antiga]]
 
 > [!abstract]
 > 
@@ -87,4 +87,4 @@ Marcado pela expansão da cultura grega sob Alexandre, o Grande. O foco desloca-
 
 ---
 
-[[filosofia]] [[história]] [[antiguidade clássica]] [[ética]] [[política]] [[metafísica]]
+[[Filosofia]] [[história]] [[antiguidade clássica]] [[ética]] [[política]] [[metafísica]]

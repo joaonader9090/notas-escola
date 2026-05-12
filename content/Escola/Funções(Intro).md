@@ -1,4 +1,4 @@
-Tags: [[matemática]] [[funções]] [[álgebra]]
+Tags: [[Matemática]] [[funções]] [[álgebra]]
 
 > [!abstract] Uma função é uma regra matemática que estabelece uma relação de dependência entre dois conjuntos, onde cada elemento de um conjunto de partida corresponde a um único elemento em um conjunto de chegada. Este conceito é fundamental para modelar fenômenos onde uma variável depende diretamente de outra.
 

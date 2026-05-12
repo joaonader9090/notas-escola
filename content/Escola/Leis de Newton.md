@@ -1,4 +1,4 @@
-**Tags: [[física]] [[mecânica]] [[dinâmica]]
+**Tags: [[Física]] [[mecânica]] [[dinâmica]]
 
 > [!abstract]
 > 
@@ -97,4 +97,4 @@ Para resolver problemas de dinâmica, utiliza-se o **Diagrama de Corpo Livre**.
 
 ---
 
-[[física]] [[mecânica]] [[cinemática]] [[matemática básica]]
+[[Física]] [[mecânica]] [[cinemática]] [[matemática básica]]

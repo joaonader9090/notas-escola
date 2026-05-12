@@ -1,4 +1,4 @@
-Tags: [[geografia]] [[astronomia]] [[cartografia]] 
+Tags: [[Geografia]] [[astronomia]] [[cartografia]] 
 
 > [!abstract]
 > 
@@ -78,4 +78,4 @@ Técnicas modernas de obtenção de informações sem contato direto com o objet
 
 ---
 
-[[geografia]] [[astronomia]] [[cartografia]] [[fuso horário]] [[escalas]]
+[[Geografia]] [[astronomia]] [[cartografia]] [[fuso horário]] [[escalas]]

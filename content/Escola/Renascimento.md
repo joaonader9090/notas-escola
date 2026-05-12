@@ -1,4 +1,4 @@
-Tags: [[história]] [[idade moderna]] 
+Tags: [[História]] [[idade moderna]] 
 
 > [!abstract]
 > 

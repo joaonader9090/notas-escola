@@ -1,4 +1,4 @@
-Tags: [[física]] [[mecânica]]
+Tags: [[Física]] [[mecânica]]
 
 > [!abstract]
 > 
@@ -122,4 +122,4 @@ Estudo dos movimentos considerando a direção e o sentido das grandezas.
 
 ---
 
-[[física]] [[vetores]] [[mecânica]] [[matemática básica]]
+[[Física]] [[vetores]] [[mecânica]] [[matemática básica]]
