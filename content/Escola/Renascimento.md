@@ -64,8 +64,6 @@ O período estabeleceu as bases do pensamento científico moderno ao desafiar a 
 
 ![the Heliocentric model vs the Geocentric model, gerada com IA](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTSEvVlzwktNiSDbu_P5T79fk1-DA7XRQEvfZp51rfon1QBVRvscCLAz8C_IGK8m-sMP_c0zrmrHr2bk7SO9t2rNdkqx2Ga_rbiZY5EV8imghw_nUM)
 
-Shutterstock
-
 ## 5. Expansão e Crise
 
 O movimento espalhou-se pela Europa, assumindo características locais (ex: Erasmo de Roterdã nos Países Baixos, Shakespeare na Inglaterra, Camões em Portugal).

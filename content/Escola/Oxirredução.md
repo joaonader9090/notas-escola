@@ -17,7 +17,7 @@ O NOX indica a carga elétrica que um átomo teria se a ligação fosse quebrada
 
 ![electronegativity scale of elements, gerada com IA](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRckt-TC1TvP_l4byXcVJwfX1ogoLhj6EegURbXNCgZ_Ka8WfQJ9coBg9OoYGzvxDJHSdNoSVpEsMcljiyNkjTMLD7DRWxyq9SpNKHOELIS5bopenA)
 
-Shutterstock
+
 
 ## 2. Regras Práticas para o Cálculo de NOX
 

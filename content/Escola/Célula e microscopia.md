@@ -48,7 +48,6 @@ O olho humano resolve até **0,1 mm**. Para ver células, precisamos ampliar a i
 |**Eletrônico (ME)**|Feixe de Elétrons|~300.000x|Ultraestrutura (organelas, membranas).|
 |**Varredura (SEM)**|Elétrons|Varievel|Superfície em 3D.|
 
-Exportar para as Planilhas
 
 - **Coloração:** O método **HE** é o padrão: **Hematoxilina** (cora ácidos/núcleo em azul) e **Eosina** (cora bases/citoplasma em rosa).
     

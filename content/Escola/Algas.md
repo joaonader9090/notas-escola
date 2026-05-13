@@ -52,8 +52,6 @@ As algas utilizam diferentes comprimentos de onda da luz solar através de pigme
 |**Pardas**|Clorofila a, c + Fucoxantina|Crisolaminarina|Celulose + Alginina|
 |**Vermelhas**|Clorofila a, d + Ficobilinas|Amido das florídeas|Celulose + Ágar|
 
-Exportar para as Planilhas
-
 ---
 
 ## 4. Ciclos de Vida e Reprodução

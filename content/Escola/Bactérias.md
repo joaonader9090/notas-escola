@@ -34,8 +34,6 @@ A reclassificação de Carl Woese separou os procariontes em dois domínios dist
 |**Ambiente**|Ubíquas (diversos)|Frequentemente Extremófilas|
 |**DNA**|Sem histonas|Com histonas (similar a Eukarya)|
 
-Exportar para as Planilhas
-
 ---
 
 ## 3. Morfologia e Coloração de Gram

@@ -40,8 +40,6 @@ A transição da água para a terra exigiu que a fase diploide (mais resistente 
 |**[[Gimnospermas]]**|**Esporófito (2n)**|Gametófito (n)|**Independente** (Tubo polínico)|
 |**[[Angiospermas]]**|**Esporófito (2n)**|Gametófito (n)|**Independente** (Tubo polínico)|
 
-Exportar para as Planilhas
-
 ---
 
 ## 4. Estruturas de Produção

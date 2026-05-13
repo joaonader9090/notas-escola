@@ -43,8 +43,6 @@ Transporte de solvente (água) do meio **hipotônico** (menos concentrado) para 
 |**Meio Hipertônico**|**Crenação** (murcha)|**Plasmólise** (membrana retrai)|
 |**Meio Hipotônico**|**Hemólise** (rompe)|**Turgência** (não rompe devido à parede)|
 
-Exportar para as Planilhas
-
 - **Equação de Sucção (Sc):** Sc=Si−M (ou DPD=PO−PT)
     
     - **Si (PO):** Pressão Osmótica (força que "puxa" água para dentro).
