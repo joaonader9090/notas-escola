@@ -1,4 +1,4 @@
-Tags: [[biologia]] [[botânica]] [[morfologia vegetal]] [[fotossíntese]]
+Tags: [[biologia]] [[Botânica]] [[morfologia vegetal]] [[fotossíntese]]
 
 > [!abstract]
 > 
@@ -68,4 +68,4 @@ As folhas podem se especializar em funções que vão além da fotossíntese:
 
 ---
 
-[[biologia]] [[botânica]] [[fisiologia vegetal]] [[ecologia]]
+[[biologia]] [[Botânica]] [[fisiologia vegetal]] [[ecologia]]

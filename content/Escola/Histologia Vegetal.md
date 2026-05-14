@@ -1,4 +1,4 @@
-Tags: [[Biologia]] [[botânica]] 
+Tags: [[Biologia]] [[Botânica]] 
 
 > [!abstract]
 > 
@@ -77,4 +77,4 @@ A eficiência do transporte de seiva evoluiu significativamente entre os grupos:
 
 ---
 
-[[Biologia]] [[botânica]] [[fotossíntese]] [[evolução]]
+[[Biologia]] [[Botânica]] [[fotossíntese]] [[evolução]]

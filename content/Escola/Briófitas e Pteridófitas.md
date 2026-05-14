@@ -1,4 +1,4 @@
-Tags: [[Biologia]] [[botânica]] [[briófitas]] [[pteridófitas]]
+Tags: [[Biologia]] [[Botânica]] [[briófitas]] [[pteridófitas]]
 
 > [!abstract] As briófitas e pteridófitas são vegetais intermediários na escala evolutiva das plantas. Enquanto as briófitas são avasculares e de pequeno porte , as pteridófitas representam o surgimento da vascularização (xilema e floema), permitindo maiores dimensões e a independência parcial do meio aquático.
 

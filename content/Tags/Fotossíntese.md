@@ -1,4 +1,4 @@
- Tags: [[Biologia]] [[botânica]] [[citologia]] [[Bioenergética]]
+ Tags: [[Biologia]] [[Botânica]] [[citologia]] [[Bioenergética]]
 
 > [!abstract] A fotossíntese é um processo anabólico autótrofo que converte energia luminosa em energia química, transformando matéria inorgânica ($CO_2$ e $H_2O$) em matéria orgânica (carboidratos). O processo ocorre nos cloroplastos, liberando $O_2$ como subproduto da fotólise da água, e fundamenta a base energética de quase todos os ecossistemas e a origem dos combustíveis fósseis.
 
@@ -95,4 +95,4 @@ $$6 CO_2 + 12 H_2O \xrightarrow[clorofila]{luz} C_6H_{12}O_6 + 6 H_2O + 6 O_2$$
 
 ---
 
-[[botânica]] [[ecologia]] [[bioenergética]]
+[[Botânica]] [[ecologia]] [[bioenergética]]

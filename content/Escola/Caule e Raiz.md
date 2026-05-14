@@ -1,4 +1,4 @@
-Tags: [[Biologia]] [[botânica]] [[morfologia vegetal]] 
+Tags: [[Biologia]] [[Botânica]] [[morfologia vegetal]] 
 
 > [!abstract]
 > 
@@ -81,4 +81,4 @@ O caule é tipicamente aéreo e apresenta geotropismo negativo e fototropismo po
 
 ---
 
-[[Biologia]] [[botânica]] [[histologia vegetal]] [[fisiologia vegetal]] [[agricultura]]
+[[Biologia]] [[Botânica]] [[histologia vegetal]] [[fisiologia vegetal]] [[agricultura]]
