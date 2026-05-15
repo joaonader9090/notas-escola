@@ -1,4 +1,3 @@
-Status: #baby 
 
 Tags: [[Química]] [[Elementos]] [[compostos]] [[moleculas]] [[geometria molecular]] 
 

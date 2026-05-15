@@ -1,4 +1,3 @@
-Status: 
 
 Tags: [[Microbiologia]] [[Patologia]] [[Biologia]] [[Engenharia Genética]] [[Procariontes]] [[Biologia celular]] [[Saúde]]
  

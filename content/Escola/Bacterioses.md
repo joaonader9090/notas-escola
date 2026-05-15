@@ -1,4 +1,3 @@
-Status:
 
 Tags: [[Microbiologia]] [[Patologia]] [[Bactérias]] [[Epidemiologia]] [[Saúde]] [[Biologia]]
 # Guia Estruturado: Doenças Bacterianas

@@ -1,4 +1,3 @@
-Status:
 
 Tags:[[História]] [[Pré-História]] [[Antiguidade Oriental]] [[Civilizações]] [[Política]] [[Direito]]
 

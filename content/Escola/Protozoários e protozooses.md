@@ -1,4 +1,3 @@
-Status:
 
 Tags: [[Protozoários]] [[Protozooses]] [[Microbiologia]] [[Patologia]] [[Biologia]] [[Saúde]] [[Epidemiologia]] 
 
