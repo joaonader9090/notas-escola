@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags:[[Biologia molecular]] [[DNA]] [[RNA]] [[Genética]] [[proteínas]] [[Biologia]] [[Tradução]] 
 

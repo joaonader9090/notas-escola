@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Citologia]] [[Biologia celular]] [[Transporte celular]] [[Biologia]]
  

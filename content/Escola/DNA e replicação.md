@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Biologia molecular]] [[proteínas]] [[DNA]] [[Genética]] [[Acidos nucleicos]] [[Biologia]][[Doenças Genéticas]] [[Transcrição]] [[Tradução]] [[enzimas]]
 

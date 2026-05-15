@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Gorduras]] [[bioquímica]] [[nutrição]] [[Macronutrientes]] [[Biologia]]
 

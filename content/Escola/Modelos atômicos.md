@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Química]] [[átomo]] [[química basica]] [[Leis ponderais]] [[Tabela periódica]]
 

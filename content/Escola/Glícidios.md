@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Carboidratos]] [[bioquímica]] [[Macronutrientes]] [[nutrição]] [[Biologia]]
 

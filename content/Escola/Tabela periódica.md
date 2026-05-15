@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Química]] [[átomo]] [[Elementos]] [[química basica]] [[Modelos atômicos]] [[Ligações Químicas]] [[Eletronegatividade]] 
 

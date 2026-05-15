@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Biologia]] [[Organelas]] [[Bioenergética]]
 

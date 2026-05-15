@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Química]] [[química basica]] [[misturas]] 
 

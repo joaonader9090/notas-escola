@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Macronutrientes]] [[nutrição]] [[bioquímica]] [[proteínas]] [[enzimas]] [[Biologia]]
 

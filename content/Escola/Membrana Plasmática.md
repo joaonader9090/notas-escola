@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Citologia]] [[Biologia celular]] [[Biologia]] [[Mosaico Fluido]] [[Lipídios]] [[Parede Celular]] [[Transporte celular]]
 

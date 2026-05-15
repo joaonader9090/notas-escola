@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[DNA]] [[RNA]] [[Biologia molecular]] [[proteínas]] [[Genética]] [[Acidos nucleicos]] [[Biologia]]
 [[Transcrição]] 

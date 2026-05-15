@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[bioquímica]] [[nutrição]] [[Micronutrientes]] [[Biologia]]
 

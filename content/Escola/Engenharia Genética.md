@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[RNA]] [[DNA]] [[proteínas]] [[Biologia molecular]] [[Biotecnologia]] [[Biologia]] [[Procariontes]]
 

@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Minerais]] [[bioquímica]] [[Micronutrientes]] [[nutrição]] [[Biologia]]
 

@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[Citologia]] [[Citoplasma]] [[Organelas]] [[Biologia celular]] [[Digestão celular]] [[Bioenergética]] [[Biologia]]
 

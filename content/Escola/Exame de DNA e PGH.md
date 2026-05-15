@@ -1,4 +1,3 @@
-Status: #adult 
 
 Tags: [[DNA]] [[Biotecnologia]] [[Biologia molecular]] [[Genética]] [[Biologia]] [[PCR]] [[Eugenia]] [[Saúde]] 
 
