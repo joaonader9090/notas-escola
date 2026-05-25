@@ -36,11 +36,11 @@ Para restabelecer a ordem e unificar a defesa, a Coroa criou o Governo-Geral, tr
 
 ### 3. Análise dos Primeiros Governos-Gerais
 
-|**Governador-Geral**|**Período**|**Principais Acontecimentos e Conflitos**|
-|---|---|---|
-|**Tomé de Souza**|1549 – 1553|• Fundação da primeira capital, **Salvador** (1549).<br><br>  <br><br>• Criação do primeiro bispado colonial.<br><br>  <br><br>• Chegada dos primeiros jesuítas (liderados pelo Pe. Manuel de Nóbrega) para iniciar as missões e a aculturação indígena.|
-|**Duarte da Costa**|1553 – 1558|• Fundação do Colégio de São Paulo por José de Anchieta (origem da cidade de SP em 1554).<br><br>  <br><br>• Crise interna: intensos conflitos entre colonos e jesuítas quanto à escravização indígena.<br><br>  <br><br>• **Invasão Francesa** na Baía da Guanabara (França Antártica).<br><br>  <br><br>• Deflagração da **Confederação dos Tamoios**, revolta indígena aliada aos franceses contra o domínio português.|
-|**Mem de Sá**|1558 – 1572|• Pacificação temporária dos indígenas com o auxílio dos jesuítas (Dissolução da Confederação dos Tamoios).<br><br>  <br><br>• Combate e expulsão definitiva dos franceses com o apoio militar de seu sobrinho, Estácio de Sá.<br><br>  <br><br>• Fundação da cidade de **São Sebastião do Rio de Janeiro** (1565) como ponto de apoio militar.|
+| **Governador-Geral** | **Período** | **Principais Acontecimentos e Conflitos**                                                                                                                                                                                                                                                                                        |
+| -------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tomé de Souza**    | 1549 – 1553 | • Fundação da primeira capital, **Salvador** (1549).<br><br>• Criação do primeiro bispado colonial.<br><br>• Chegada dos primeiros jesuítas para iniciar as missões e a aculturação indígena.                                                                                                                                    |
+| **Duarte da Costa**  | 1553 – 1558 | • Crise interna: intensos conflitos entre colonos e jesuítas quanto à escravização indígena.<br><br>• **Invasão Francesa** na Baía da Guanabara (França Antártica).<br><br>• Deflagração da **Confederação dos Tamoios**, revolta indígena aliada aos franceses contra o domínio português.                                      |
+| **Mem de Sá**        | 1558 – 1572 | • "Pacificação" temporária dos indígenas com o auxílio dos jesuítas (Dissolução da Confederação dos Tamoios).  <br><br>• Combate e expulsão definitiva dos franceses com o apoio militar de seu sobrinho, Estácio de Sá.<br> <br>• Fundação da cidade de **São Sebastião do Rio de Janeiro** (1565) como ponto de apoio militar. |
 
 ### 4. As Invasões Estrangeiras: A França Antártica (1555 – 1567)
 

@@ -66,15 +66,6 @@ Onde existiu a opressão escravista, manifestou-se a resistência, variando de e
 - **Preservação Cultural:** A manutenção secreta ou sincrética dos ritos religiosos, das memórias ancestrais, das línguas de origem e das manifestações artísticas funcionava como uma recusa à desumanização imposta pelo sistema colonial.
     
 - **Os Quilombos (ou Mocambos):** A fuga, individual ou coletiva, representava o ato de insubmissão mais contundente. Os fugitivos agrupavam-se em comunidades fortificadas no interior das matas. O maior expoente foi o **Quilombo dos Palmares** (finais do século XVI até 1694), localizado na Serra da Barriga (Pernambuco/Alagoas). Palmares funcionou como uma verdadeira alternativa política e social à ordem colonial, chegando a abrigar cerca de 20 mil habitantes sob lideranças históricas como Ganga Zumba e Zumbi.
-    
-
-### 5. Quadro Resumo: Categorias de Escravizados no Engenho
-
-|**Categoria**|**Descrição e Atuação no Engenho**|
-|---|---|
-|**Boçais**|Escravizados recém-chegados da África que não dominavam a língua portuguesa e desconheciam os códigos coloniais. Eram direcionados aos trabalhos braçais mais pesados e perigosos no canavial.|
-|**Ladinos**|Cativos já aculturados, que compreendiam o português e possuíam habilidades técnicas específicas. Atuavam na manufatura do açúcar (como caldeireiros) ou em funções de supervisão e transporte.|
-|**Domésticos**|Escravizados que operavam no interior da Casa-Grande (como mucamas, cozinheiras e amas de leite). Viviam sob constante vigilância, mas em condições materiais ligeiramente distintas do trabalho da roça.|
 
 > [!quote] Strategic Counterpoint
 > 
