@@ -1,4 +1,4 @@
-Tags: [[biologia]] [[Botânica]] [[morfologia vegetal]] [[fotossíntese]]
+Tags: [[biologia]] [[Botânica]] [[morfologia vegetal]] [[Fotossíntese]]
 
 > [!abstract]
 > 
