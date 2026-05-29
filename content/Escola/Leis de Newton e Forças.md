@@ -21,9 +21,6 @@ Sistematizam como as forças interagem com a massa para alterar o estado de movi
 - **3ª Lei - Princípio da Ação e Reação:** Para toda força de ação, existe uma força de reação de mesma intensidade, mesma direção e sentido oposto.
     
     - _Propriedade Crítica:_ As forças de ação e reação **nunca se anulam**, pois atuam em corpos distintos.
-        
-
-![Newton's three laws of motion diagrams, gerada com IA](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR8WmYfrZ7panTHbYOqxala5Tq2DT7L2qdnJ8Ozhtxtoq8u3NcGYgqfstTGRG0ee1hw-cEAuftGaLLKXhjsiRP-93yhw5V6E0ON3Wrtf8TL_V1dCOo)
 
 ---
 

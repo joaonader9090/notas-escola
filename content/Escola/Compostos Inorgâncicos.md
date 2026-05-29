@@ -22,8 +22,6 @@ A água é a matriz da vida, com geometria **angular (104,45º)** que gera um di
     - **Calor Latente:** Evaporação (suor) resfria o corpo eficientemente.
         
 
-![water molecular structure and hydrogen bonding, AI generated|288](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTIkh6K90UKqZ3WQvlpDFX7Kya0Rte-5jjDtef1IRYDnfoMpwD85lVaRDO9Sol5FhxWMND49Svkms6ght9dvkHVjHde9-Bc9xggacGpJODJpzTOCk8)
-
 ---
 
 ## 2. Dinâmica Hídrica
