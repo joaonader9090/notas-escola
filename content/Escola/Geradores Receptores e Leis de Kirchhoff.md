@@ -2,10 +2,6 @@ Tags: [[Física]] [[Eletrodinâmica]] [[Geradores, Receptores e Leis de Kirchhof
 
 > [!abstract]
 > Em um circuito elétrico, **geradores** são os dispositivos que convertem outras formas de energia (mecânica, química, luminosa) em energia elétrica, fornecendo-a ao circuito, enquanto **receptores** fazem o caminho inverso de forma parcial: convertem energia elétrica em uma forma de energia útil que **não é exclusivamente térmica** — como energia mecânica em um motor ou energia química ao carregar uma bateria. Ambos são caracterizados por uma resistência interna, responsável por dissipação de energia por efeito Joule, e por uma grandeza característica (força eletromotriz no gerador, força contraeletromotriz no receptor) que define a conversão de energia não-térmica. Quando o circuito se torna complexo, com múltiplas malhas e nós, a análise direta por associação de resistores deixa de ser suficiente, exigindo as **Leis de Kirchhoff** — a **Lei dos Nós**, expressão da conservação da carga elétrica, e a **Lei das Malhas**, expressão da conservação de energia —, que juntas permitem montar um sistema de equações capaz de determinar todas as correntes de qualquer circuito, por mais ramificado que seja.
-
-> [!info] Nota metodológica
-> Esta nota foi elaborada sem apostila-fonte fornecida, a partir de conhecimento consolidado de Física (Eletrodinâmica). O componente de **rastreabilidade `(p. X)`** do método está, portanto, **inoperante** nesta nota — não há página de origem a citar. Caso deseje cruzar este conteúdo com uma apostila ou livro específico, envie o material e a nota pode ser reconstruída com citação de página ativa.
-
 ## 1. Geradores Elétricos
 
 - **Gerador** é todo dispositivo que converte outra forma de energia em **energia elétrica**, fornecendo energia ao circuito — pilhas, baterias, dínamos e células fotovoltaicas são exemplos.
